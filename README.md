@@ -51,14 +51,25 @@ python3 -m venv env
 ```bash
 # Windows
 .\env\Scripts\activate
+
 # Linux/MacOS
 source env/bin/activate
 ```
 3. Run `pip install -r requirements.txt`
 4. If you wish to contribute, you can make your changes
 
+## How to run
+```bash
+# Windows
+python main.py
+
+# Linux/MacOS
+python3 main.py
+```
+
 ### Todo (in no particular order):
 
+- [ ] Gender-based Text-To-Speech voice
 - [ ] Replace Speech-To-Text text with filtered post text (to make it 100% accurate)
 - [ ] Dockerize this
 - [ ] Filter out NSFW posts
