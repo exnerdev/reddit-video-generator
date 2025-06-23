@@ -1,7 +1,16 @@
 {
+    "cSpell.ignorePaths": [
+        "requirements.txt",
+        "vscode-extension",
+        ".git/{info,lfs,logs,refs,objects}/**",
+        ".git/{index,*refs,*HEAD}",
+        ".vscode",
+        ".vscode-insiders"
+    ],
     "cSpell.words": [
         "Abstra",
         "Apifox",
+        "audiofile",
         "celerybeat",
         "codz",
         "Connor",
@@ -15,11 +24,14 @@
         "htmlcov",
         "ipynb",
         "ipython",
+        "KHTML",
+        "libx",
         "Marimo",
         "mkdocs",
         "mpeltonen",
         "mypy",
         "nosetests",
+        "Noto",
         "pipenv",
         "Pipfile",
         "pixi",
@@ -37,6 +49,7 @@
         "ropeproject",
         "Scrapy",
         "sdist",
+        "selftext",
         "sonarlint",
         "Spyder",
         "spyderproject",
@@ -44,6 +57,8 @@
         "subreddits",
         "Tkinter",
         "venv",
+        "videofile",
+        "VIDEONAME",
         "webassets"
     ]
 }
